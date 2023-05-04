@@ -5,7 +5,7 @@
 
 ### **社交主页：**
 
-<a href="https://stats.justsong.cn/api/bilibili/?id=102761543" <code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://stats.justsong.cn/api/bilibili/?id=102761543&raw=true"/>
 
 ### **技术栈:**
 
