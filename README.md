@@ -35,7 +35,9 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=vue2)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=Study_Vue2)](https://github.com/Minori-ty/mp4To4K-rust)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=Study_Vue3)](https://github.com/Minori-ty/mp4To4K-rust)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=Scientific-Research-website)](https://github.com/Minori-ty/mp4To4K-rust)
 
