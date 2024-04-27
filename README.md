@@ -2,9 +2,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{ubrong}/count.svg)
 
-## Hi，运维/前端工程师 — 預閱 😊
+## Hi，云计算运维/前端工程师/手机数据取证/分析 — 預閱 😊
 
 - 💕热爱前端、运维、渗透、热爱技术。
+- 目前在公安机关：数据取证/网络犯罪分析
 - 👻微信公众号：Yue部落阁
 - 🫤工作经验3年。 喜欢参与一些开源项目的研究。
 - 🐽加入 **`YUE | BLOG`** 大家庭 ![阅(http://blog.yuefuture.top)]
