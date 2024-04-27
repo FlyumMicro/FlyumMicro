@@ -4,8 +4,7 @@
 
 ## Hi，云计算运维/前端工程师/手机数据取证/分析 — 預閱 😊
 
-- 💕热爱前端、运维、渗透、热爱技术。
-- 目前在公安机关：数据取证/网络犯罪分析
+- 💕热爱前端、运维、渗透、热爱技术
 - 👻微信公众号：Yue部落阁
 - 🫤工作经验3年。 喜欢参与一些开源项目的研究。
 - 🐽加入 **`YUE | BLOG`** 大家庭 ![阅(http://blog.yuefuture.top)]
@@ -34,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyumMicro)](https://github.com/anuraghazra/github-readme-stats)
 
-### 开源项目
+### （无聊写的）开源项目 （不打算继续更新）
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=Study_Vue2)](https://github.com/Minori-ty/mp4To4K-rust)
 
@@ -45,7 +44,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=FlyumMicro&repo=chatgpt_web)](https://github.com/Minori-ty/mp4To4K-rust)
 
 ### Github 活跃度
-
 
 [![Micro.Teik GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyumMicro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
